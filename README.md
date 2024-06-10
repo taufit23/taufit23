@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufit23&label=Profile%20views&color=0e75b6&style=flat" alt="taufit23" /> </p>
 
+<figure><embed src="https://wakatime.com/share/@6ef777f6-0e4a-427c-a615-ae1c8bb1b622/710857c2-ac82-49bf-9d71-2e04d7966f1b.svg"></embed></figure>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taufit23" alt="taufit23" /></a> </p>
 
 - 🔭 I’m currently working on [General Ledger App](https://github.com/apbatech/RS-Keuangan-FE)
