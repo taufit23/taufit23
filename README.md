@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taufit23" alt="taufit23" /></a> </p>
 
 - 🔭 I’m currently working on [General Ledger App](https://github.com/apbatech/RS-Keuangan-FE)
-
+[![wakatime](https://wakatime.com/badge/user/6ef777f6-0e4a-427c-a615-ae1c8bb1b622/project/a1397f9f-c468-4c06-92fd-6b28929f8eb7.svg)](https://wakatime.com/badge/user/6ef777f6-0e4a-427c-a615-ae1c8bb1b622/project/a1397f9f-c468-4c06-92fd-6b28929f8eb7)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
