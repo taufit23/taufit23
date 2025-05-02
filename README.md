@@ -102,7 +102,7 @@
 
 <img src="https://raw.githubusercontent.com/taufit23/taufit23/output/snake.svg" alt="Snake animation" />
 
-###
+<!-- ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/21tzt3roims4adusgnl5rqioi">
@@ -110,4 +110,4 @@
   </a>
 </div>
 
-###
+### -->
