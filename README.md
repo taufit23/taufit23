@@ -27,6 +27,10 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,laravel,vue,nuxt,tailwind,angular,mysql,sqlite,nodejs,npm,git,github,linux,vscode&perline=9" alt="Tech stack" />
 </div>
 
+## 💼 Portfolio
+
+Ringkasan proyek (pribadi dan profesional, disamarkan) ada di **[PORTFOLIO.md](PORTFOLIO.md)**.
+
 ## 📊 GitHub stats
 
 <div align="center">
@@ -39,9 +43,8 @@
 ## 📌 Repo pilihan
 
 <div align="center">
-  <!-- Ganti nama repo sesuai yang mau ditampilkan -->
-  <a href="https://github.com/taufit23/REPO_1"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taufit23&repo=REPO_1&theme=vue-dark&hide_border=true" alt="REPO_1" /></a>
-  <a href="https://github.com/taufit23/REPO_2"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taufit23&repo=REPO_2&theme=vue-dark&hide_border=true" alt="REPO_2" /></a>
+  <a href="https://github.com/taufit23/FileExtractorTranslationsKeys"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taufit23&repo=FileExtractorTranslationsKeys&theme=vue-dark&hide_border=true" alt="FileExtractorTranslationsKeys" /></a>
+  <a href="https://github.com/taufit23/CorsTester"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taufit23&repo=CorsTester&theme=vue-dark&hide_border=true" alt="CorsTester" /></a>
 </div>
 
 ## ⚡ Aktivitas terbaru
